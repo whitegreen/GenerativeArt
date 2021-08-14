@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 PImage img;
 boolean s=false;
 void setup() {

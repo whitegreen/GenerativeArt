@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 float theta=0.37;
 float s=0.52;
 void setup() {

@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 float x=0;
 float y=0;
 float a=-1.24; 

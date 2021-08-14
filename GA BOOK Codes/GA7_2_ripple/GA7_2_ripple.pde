@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 int w=800;
 int h=600;
 float[][] d = new float[h][w];

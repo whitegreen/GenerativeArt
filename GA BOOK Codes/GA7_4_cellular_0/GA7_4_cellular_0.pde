@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 int w=360; 
 int h=360;
 int[][] d = new int[h][w];

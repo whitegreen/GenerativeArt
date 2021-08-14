@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 float r=400;
 int n=72*6;
 void setup(){

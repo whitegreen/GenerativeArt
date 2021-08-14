@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 int n=800;
 PVector[] ps= new PVector[n];
 void setup() {

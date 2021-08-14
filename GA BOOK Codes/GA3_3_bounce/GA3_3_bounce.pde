@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 int n=720;
 float[] x=new float[n];
 float[] y=new float[n];

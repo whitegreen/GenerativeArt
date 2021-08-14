@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 void setup(){
   size(1200,800);
   background(0);

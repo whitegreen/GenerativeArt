@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 PImage img; 
 void setup(){
   size(800,627);

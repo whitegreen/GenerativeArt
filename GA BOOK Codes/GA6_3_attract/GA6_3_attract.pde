@@ -1,3 +1,4 @@
+//https://github.com/whitegreen/GenerativeArt
 int n=2345;
 PVector [] ps=new PVector[n];
 PVector [] ds=new PVector[n];

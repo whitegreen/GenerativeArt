@@ -1,4 +1,4 @@
-//github.com/whitegreen/GenerativeArt
+//https://github.com/whitegreen/GenerativeArt
 void setup() {
   size(900,700);
   colorMode(HSB);

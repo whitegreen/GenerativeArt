@@ -4,9 +4,6 @@ Example codes in《**Generative Art**》Publishing House of Electronics Industry
 
 《**生成艺术**：Processing视觉创意入门》（电子工业出版社 2021）的部分源代码
 
-![image courtesy: 张思祺](https://github.com/whitegreen/GenerativeArt/blob/main/images/zhang.jpg)
-image courtesy: 张思祺
-
 All codes are written in Java and run in **Processing** which can be downloaded from https://processing.org/.
 
 ### Works from the Generative Art Summer School at Southeast University 
